@@ -1,5 +1,9 @@
 # Node.js-MySQL
 
+To use this app you need to navigate to Node.js-MySQL and enter: node bamazonCustomer.js to access the bamazon database.
+
+You can then order your product as follows:
+
 screenshot#1
 ![screen shot 2017-11-12 at 9 28 51 pm](https://user-images.githubusercontent.com/28455100/32711825-d5f5c6b2-c7f5-11e7-88f5-8a3d4ee96ddd.png)
 
